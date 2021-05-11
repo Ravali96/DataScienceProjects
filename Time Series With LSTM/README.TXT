@@ -1,1 +1,2 @@
 
+The problem we are going to look at in this post is the international airline passengers prediction problem. This is a problem where given a year and a month, the task is to predict the number of international airline passengers in units of 1000. The data ranges from January 1949 to December 1960 or 12 years, with 144 observations. The dataset is available with the filename “airline-passengers.csv“.
